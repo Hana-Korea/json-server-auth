@@ -1,16 +1,39 @@
 {
-  "posts":[
+  "users": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "email": "hyeri@naver.com",
+      "password": "$2a$10$K691Hg4swVB6yZgbWSAvMeZNp0K4X0Nux.O/ruYDG4TWQp89mHY3W",
+      "id": 1
+    },
+    {
+      "email": "test1@naver.com",
+      "password": "$2a$10$Xfbda09c1SaWdamuSw.K7uXSptnML.iX8h4droRMKLFyl7Qr6iAlS",
+      "id": 2
+    },
+    {
+      "email": "hyeriish1@gmail.com",
+      "password": "$2a$10$.IBL1wuO9qth4LCra3EJnumPXEKo9lVJnj5sfij/5l49GRkBhXs.u",
+      "confirmPassword": "123123123",
+      "id": 3
+    },
+    {
+      "email": "hello1234@naver.com",
+      "password": "$2a$10$UyYA1Qwo11mYZXvcJ/dNEO.AAoBmCRaQIO9fP47AGFWyVp7CQcNCm",
+      "confirmPassword": "123123123",
+      "id": 4
+    },
+    {
+      "email": "hello12334@naver.com",
+      "password": "$2a$10$BaNTijXTY54ZIpNYrqmeF.EONbUPNYRmWnsdw47wlwHc5sMekb1l6",
+      "confirmPassword": "123123123",
+      "id": 5
+    },
+    {
+      "email": "rabbit@naver.com",
+      "password": "$2a$10$yJdCX8SpqPU5FQtLSNk.UuesbihTweKn2m3fiYre3OfCXDtP88gay",
+      "confirmPassword": "123123123",
+      "id": 6
     }
   ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+  "todos": []
 }
